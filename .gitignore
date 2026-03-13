@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+*.swp
+
+# Build / temp
+.next/
+.vercel/
+dist/
+build/
+node_modules/
